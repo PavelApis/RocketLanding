@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\c++\rocketlanding\rocketlanding\rocket.h(14): warning C4305: инициализация: усечение из "double" в "float"
+d:\c++\rocketlanding\rocketlanding\rocket.h(15): warning C4305: инициализация: усечение из "double" в "float"
+d:\c++\rocketlanding\rocketlanding\rocket.h(161): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c++\rocketlanding\rocketlanding\rocket.h(169): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\c++\rocketlanding\rocketlanding\main.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\rocketlanding\rocketlanding\main.cpp(215): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  RocketLanding.vcxproj -> D:\C++\RocketLanding\Debug\RocketLanding.exe
